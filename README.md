@@ -9,9 +9,8 @@ Desafio pessoal de estudar Java durante 100 dias (aos finais de semana) com base
 - 🔨 Mini projetos por etapa
 - 🚀 Projeto final ao término do desafio
 
----
-
 ## 🔖 Progresso
 
 - ✅ Semana 01 - Fundamentos e Tipos Primitivos
 - ⬜ Semana 02 - Estruturas de Controle
+- ...

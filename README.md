@@ -15,4 +15,3 @@ Desafio pessoal de estudar Java durante 100 dias (aos finais de semana) com base
 
 - ✅ Semana 01 - Fundamentos e Tipos Primitivos
 - ⬜ Semana 02 - Estruturas de Controle
-- ...
